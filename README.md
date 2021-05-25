@@ -7,3 +7,5 @@ Things i've learnt
   4. How to setup a GlobalProvider
   5. How to manage state using the ContextApi (Passing functions,and state through components)
 
+
+See the app here https://inspiring-beaver-af7962.netlify.app
